@@ -203,7 +203,7 @@ Auto-copy feature uses `[System.Windows.Forms.Clipboard]::SetText()` for seamles
 - **Export formats**: Test TXT/CSV export, HashCheck format (.sha256 files), SFV format for CRC32
 
 ## Version & Author
-- **Current version**: 2.1 (December 2024)
+- **Current version**: 2.1 (December 2025)
 - **Author**: Dustin W. Deen
 - **GitHub**: https://github.com/thestickybullgod/hashps1
 - **Enhanced with**: GitHub Copilot assistance
@@ -220,4 +220,5 @@ Auto-copy feature uses `[System.Windows.Forms.Clipboard]::SetText()` for seamles
 - Export to multiple formats (TXT/CSV, HashCheck, SFV)
 - Enhanced Recent Files with smart dual-button system
 - Comprehensive About tab documentation
+
 
