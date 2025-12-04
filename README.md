@@ -1,3 +1,5 @@
+UPDATE — 12/04/2025 — Minor bug fixes/improvements.
+
 SHA256 of Hashps1_v2.1.exe — 5ba715d85d0c01e7742b579c8d6d0e646e64553192630a0daafce830230c14b5
 
 SHA256 of Hashps1_v2.1.ps1 — d8a5e604101ae1c9b66ae26e6803d9994a1c12775426c0967fffc7506c4295f6
@@ -232,6 +234,7 @@ This project is open source. Feel free to use, modify, and distribute.
 ---
 
 **Note**: This is a Windows-only application due to Windows Forms dependency. For cross-platform hash utilities, consider command-line alternatives like `sha256sum` or `certutil`.
+
 
 
 
