@@ -1,6 +1,6 @@
 SHA256 of Hashps1_v2.1.exe — 0bf4dac5cf80667c46caa9b7965d6b750d582251403e873034040603bb275bb1
 
-# hashps1 v2.1
+# Hashps1 v2.1
 
 A professional Windows Forms-based PowerShell GUI application for cryptographic hash operations with batch processing, verification, and HMAC support.
 
@@ -171,6 +171,7 @@ This project is open source. Feel free to use, modify, and distribute.
 ---
 
 **Note**: This is a Windows-only application due to Windows Forms dependency. For cross-platform hash utilities, consider command-line alternatives like `sha256sum` or `certutil`.
+
 
 
 
