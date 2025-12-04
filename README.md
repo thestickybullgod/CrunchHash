@@ -1,8 +1,8 @@
 Update as of 12/04/2025 — minor fixes/improvements and included a "Clear Hash Cache" button in the "Settings" tab.
 
-SHA256 of Hashps1_v2.1.exe — 8638becf08f0ff0e92d9d1814ecd3fa10f90c907d0b894c02b7730925d0fe28b
+SHA256 of Hashps1_v2.1.exe — c6e26a27a106a709c00b19c3773b168bc6e160525f88abeb07c1889541805718
 
-SHA256 of Hashps1_v2.1.ps1 — 735d5140b6061bb1d51940e0d181b7d1f15f220bfde07fe3c4a91b44d0bb4054
+SHA256 of Hashps1_v2.1.ps1 — 2fd382e7e7f2b55e100ac7477798967b3bfd0513557b00cc45faa81e25f86835
 
 # Hashps1 v2.1
 
@@ -235,6 +235,7 @@ This project is open source. Feel free to use, modify, and distribute.
 ---
 
 **Note**: This is a Windows-only application due to Windows Forms dependency. For cross-platform hash utilities, consider command-line alternatives like `sha256sum` or `certutil`.
+
 
 
 
