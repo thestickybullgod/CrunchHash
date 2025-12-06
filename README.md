@@ -1,14 +1,14 @@
-Update as of 12/04/2025 — minor fixes/improvements added and "Clear Hash Cache" button included in the "Settings" tab.
+Update as of 12/05/2025 — 
 
-SHA256 of Hashps1_v2.4.exe — ed0fabcde63cacc0edf2bdb2672655f2a6e2c40636495ac9518ebbf11fa24e12
+SHA256 of Hashps1_v2.5.exe — 886274a84692d7da195984b7b43d190846af7bca01f8e88f8ea361a3771f92f7
 
-SHA256 of Hashps1_v2.4.ps1 — 7cfba7b3d141417e6559302e2fa5fbe60e87cd44d1f21e47c4e949542554c260
+SHA256 of Hashps1_v2.5.ps1 — f2c201c1e51e02a4783b89890494364109e3276d4f0b654ae5ac3b7e5f4e9ba1
 
-# Hashps1 v2.4
+# Hashps1 v2.5
 
 A professional Windows Forms-based PowerShell GUI application for cryptographic hash operations with batch processing, verification, and HMAC support.
 
-![hashps1](https://img.shields.io/badge/version-2.4-blue.svg)
+![hashps1](https://img.shields.io/badge/version-2.5-blue.svg)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 
@@ -63,17 +63,17 @@ Bulk hash verification from tab/space delimited format with MATCH/MISMATCH repor
 - .NET Framework 4.8 (included in Windows 10/11)
 
 ### Quick Start
-1. Download `Hashps1_v2.4.ps1`
+1. Download `Hashps1_v2.5.ps1`
 2. Right-click → **Run with PowerShell**
    
    *Or from PowerShell:*
    ```powershell
-   powershell -ExecutionPolicy Bypass -File "Hashps1_v2.4.ps1"
+   powershell -ExecutionPolicy Bypass -File "Hashps1_v2.5.ps1"
    ```
    
    *Portable mode (no config/cache files):*
    ```powershell
-   powershell -ExecutionPolicy Bypass -File "Hashps1_v2.4.ps1" -Portable
+   powershell -ExecutionPolicy Bypass -File "Hashps1_v2.5.ps1" -Portable
    ```
 
 No installation or dependencies required - it's a single PowerShell script!
@@ -86,7 +86,7 @@ No installation or dependencies required - it's a single PowerShell script!
 3. Choose algorithm (SHA256 is default)
 4. For HMAC algorithms, enter key in the dedicated field
 6. Click **Generate Hash**
-   - Clicking **Generate Hash** after clicking **Log to file** creates "Hash_GUI_Log.txt" in the directory of Hashps1_v2.4.exe/Hashps1_v2.4.ps1
+   - Clicking **Generate Hash** after clicking **Log to file** creates "Hash_GUI_Log.txt" in the directory of Hashps1_v2.5.exe/Hashps1_v2.5.ps1
    - Cached hashes are returned instantly if file hasn't changed
    - Large files (>10GB) trigger a confirmation dialog
    - Locked files are detected and reported
@@ -98,7 +98,7 @@ No installation or dependencies required - it's a single PowerShell script!
 3. Select algorithm and output format
 4. Configure parallel threads (1-8) in Settings tab for faster processing
 5. Click **Hash All** to process
-   - Clicking **Hash All** after clicking **Log to file** creates "Batch_GUI_Log.txt" in the directory of Hashps1_v2.4.exe/Hashps1_v2.4.ps1
+   - Clicking **Hash All** after clicking **Log to file** creates "Batch_GUI_Log.txt" in the directory of Hashps1_v2.5.exe/Hashps1_v2.5.ps1
    - Pre-flight checks detect locked and large files
    - Results stream in real-time as each file completes
    - Cached hashes speed up processing of unchanged files (marked with [CACHED])
@@ -169,6 +169,19 @@ Standard .NET crypto providers plus:
 
 ## Version History
 
+### v2.5 (Current - December 2025)
+✅ Smooth Progress Tracking - Dual progress bars (File % and Batch %) in Batch tab
+✅ Speed Display - Real-time MB/s tracking
+✅ Incremental Caching - Cache writes as files complete, not just at end
+✅ Verify Tab Enhancements:
+Green progress bar with smooth animation (18px tall!)
+Stop button that actually works
+Real-time incremental results display
+Streaming hash computation for large files
+Responsive form closing with user confirmation
+✅ Import Optimization - StreamReader for fast batch log imports
+✅ Performance Fixes - No more crashes or freezing!
+
 ### v2.4 (Current - December 2025)
 **Major Features:**
 - **Portable Mode**: Run with `-Portable` flag to disable config/cache file creation
@@ -235,6 +248,7 @@ This project is open source. Feel free to use, modify, and distribute.
 ---
 
 **Note**: This is a Windows-only application due to Windows Forms dependency. For cross-platform hash utilities, consider command-line alternatives like `sha256sum` or `certutil`.
+
 
 
 
