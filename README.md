@@ -146,7 +146,7 @@ Hash cache is stored in `HashCache.json` with automatic size limiting (1000 entr
 ## Technical Details
 
 ### Architecture
-- **Single-file application**: ~3500 lines of PowerShell
+- **Single-file application**: ~5000 lines of PowerShell
 - **Windows Forms GUI**: Native .NET Framework controls
 - **Background jobs**: Async processing via `Start-Job` with temp file communication
 - **Parallel processing**: Configurable thread count (1-8) for batch operations
@@ -246,6 +246,7 @@ This project is open source. Feel free to use, modify, and distribute.
 ---
 
 **Note**: This is a Windows-only application due to Windows Forms dependency. For cross-platform hash utilities, consider command-line alternatives like `sha256sum` or `certutil`.
+
 
 
 
