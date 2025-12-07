@@ -1,7 +1,7 @@
 # Parallel Batch Processing Implementation - Complete
 
 ## Overview
-Successfully completed the parallel batch processing implementation for Hashps1 v2.1. The batch processing has been refactored from sequential (one file at a time) to true parallel execution using PowerShell runspace pools with real-time result streaming.
+Successfully completed the parallel batch processing implementation for CrunchHash v2.6. The batch processing has been refactored from sequential (one file at a time) to true parallel execution using PowerShell runspace pools with real-time result streaming.
 
 ## What Was Changed
 
@@ -111,3 +111,4 @@ This parallel implementation integrates with:
 - Speed calculation shows average across all active threads
 - [CACHED] markers indicate files loaded from hash cache
 - Horizontal scrolling dynamically calculated for long file paths
+
