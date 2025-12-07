@@ -168,16 +168,24 @@ Standard .NET crypto providers plus:
 ## Version History
 
 ### v2.5 (Current - December 2025)
+
+✅ Now supports high contrast mode! Use by enabling high contrast mode in Windows settings.
+
 ✅ Smooth Progress Tracking - Dual progress bars (File % and Batch %) in Batch tab
+
 ✅ Speed Display - Real-time MB/s tracking
+
 ✅ Incremental Caching - Cache writes as files complete, not just at end
+
 ✅ Verify Tab Enhancements:
 Green progress bar with smooth animation (18px tall!)
 Stop button that actually works
 Real-time incremental results display
 Streaming hash computation for large files
 Responsive form closing with user confirmation
+
 ✅ Import Optimization - StreamReader for fast batch log imports
+
 ✅ Performance Fixes - No more crashes or freezing!
 
 ### v2.4 (Current - December 2025)
@@ -246,6 +254,7 @@ This project is open source. Feel free to use, modify, and distribute.
 ---
 
 **Note**: This is a Windows-only application due to Windows Forms dependency. For cross-platform hash utilities, consider command-line alternatives like `sha256sum` or `certutil`.
+
 
 
 
