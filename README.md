@@ -42,9 +42,7 @@ A professional Windows Forms-based PowerShell GUI application for cryptographic 
 - **Toast Notifications**: Windows 10+ notifications for background operation completion
 - **Horizontal Scrolling**: File lists support horizontal scrolling with dynamic extent calculation (font-size aware)
 
-## Screenshots
-
-### Main Tab - Dark Mode
+### Main Tab
 Single file/string hashing with algorithm selection and HMAC key support.
 
 ### Batch Processing
@@ -254,6 +252,7 @@ This project is open source. Feel free to use, modify, and distribute.
 ---
 
 **Note**: This is a Windows-only application due to Windows Forms dependency. For cross-platform hash utilities, consider command-line alternatives like `sha256sum` or `certutil`.
+
 
 
 
