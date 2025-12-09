@@ -1,12 +1,12 @@
-SHA256 of CrunchHash_v2.8.exe — 5848c198950f75953837734bf2e22331e53624ca4196af6994b2c4d546a7e46b
+SHA256 of CrunchHash_v3.0.exe — d70182ad3fb12fb0e18c5d13dbb1755b726529b8bdb79b578df46ac19342c9e7
 
-SHA256 of CrunchHash_v2.8.ps1 — 04435c7864fca4fc7de377ac42ddf5c91a535ae2b67ea6aaedb618d09a534e6e
+SHA256 of CrunchHash_v3.0.ps1 — 0e968a3eb3a386de82cf3c8e6b1a29b55bc37773f0f3ce417a2c79b196b3bd5f
 
-# CrunchHash 2.8
+# CrunchHash 3.0
 
 A professional Windows Forms-based PowerShell GUI application for cryptographic hash operations with batch processing, verification, and HMAC support.
 
-![crunchhash](https://img.shields.io/badge/version-2.8-blue.svg)
+![crunchhash](https://img.shields.io/badge/version-3.0-blue.svg)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 
@@ -60,17 +60,17 @@ Bulk hash verification from tab/space delimited format with MATCH/MISMATCH repor
 - .NET Framework 4.8 (included in Windows 10/11)
 
 ### Quick Start
-1. Download `CrunchHash_v2.8.ps1`
+1. Download `CrunchHash_v3.0.ps1`
 2. Right-click → **Run with PowerShell**
    
    *Or from PowerShell:*
    ```powershell
-   powershell -ExecutionPolicy Bypass -File "CrunchHash_v2.8.ps1"
+   powershell -ExecutionPolicy Bypass -File "CrunchHash_v3.0.ps1"
    ```
    
    *Portable mode (no config/cache files):*
    ```powershell
-   powershell -ExecutionPolicy Bypass -File "CrunchHash_v2.8.ps1" -Portable
+   powershell -ExecutionPolicy Bypass -File "CrunchHash_v3.0.ps1" -Portable
    ```
 
 No installation or dependencies required - it's a single PowerShell script!
@@ -83,7 +83,7 @@ No installation or dependencies required - it's a single PowerShell script!
 3. Choose algorithm (SHA256 is default)
 4. For HMAC algorithms, enter key in the dedicated field
 6. Click **Generate Hash**
-   - Clicking **Generate Hash** after clicking **Log to file** creates "Hash_GUI_Log.txt" in the directory of CrunchHash_v2.8.exe/CrunchHash_v2.8.ps1
+   - Clicking **Generate Hash** after clicking **Log to file** creates "Hash_GUI_Log.txt" in the directory of CrunchHash_v3.0.exe/CrunchHash_v3.0.ps1
    - Cached hashes are returned instantly if file hasn't changed
    - Large files (>10GB) trigger a confirmation dialog
    - Locked files are detected and reported
@@ -95,7 +95,7 @@ No installation or dependencies required - it's a single PowerShell script!
 3. Select algorithm and output format
 4. Configure parallel threads (1-8) in Settings tab for faster processing
 5. Click **Hash All** to process
-   - Clicking **Hash All** after clicking **Log to file** creates "Batch_GUI_Log.txt" in the directory of CrunchHash_v2.8.exe/CrunchHash_v2.8.ps1
+   - Clicking **Hash All** after clicking **Log to file** creates "Batch_GUI_Log.txt" in the directory of CrunchHash_v3.0.exe/CrunchHash_v3.0.ps1
    - Pre-flight checks detect locked and large files
    - Results stream in real-time as each file completes
    - Cached hashes speed up processing of unchanged files (marked with [CACHED])
@@ -263,6 +263,7 @@ This project is open source. Feel free to use, modify, and distribute.
 ---
 
 **Note**: This is a Windows-only application due to Windows Forms dependency. For cross-platform hash utilities, consider command-line alternatives like `sha256sum` or `certutil`.
+
 
 
 
