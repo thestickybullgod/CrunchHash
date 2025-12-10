@@ -166,7 +166,7 @@ Standard .NET crypto providers plus:
 
 ## Version History
 
-### v2.8 (December 2025)
+### BETA v2.8 (December 2025)
 **Mutual Exclusion & UI Refinements:**
 - **Hash Operation Mutual Exclusion**: Prevent simultaneous hash operations across tabs to avoid conflicts
   - Duplicate Finder, Batch Hash, and Verify operations now disable each other while running
@@ -176,7 +176,7 @@ Standard .NET crypto providers plus:
   - Button colors now properly reflect enabled/disabled state
 - **Code Cleanup**: Corrected internal button variable references for consistency
 
-### v2.5 (Current - December 2025)
+### BETA v2.5 (Current - December 2025)
 
 ✅ Now supports high contrast mode! Use by enabling high contrast mode in Windows settings.
 
@@ -197,7 +197,7 @@ Responsive form closing with user confirmation
 
 ✅ Performance Fixes - No more crashes or freezing!
 
-### v2.4 (Current - December 2025)
+### BETA v2.4 (Current - December 2025)
 **Major Features:**
 - **Portable Mode**: Run with `-Portable` flag to disable config/cache file creation
 - **Hash Caching**: Automatic caching of computed hashes - instant results for unchanged files
@@ -263,6 +263,7 @@ This project is open source. Feel free to use, modify, and distribute.
 ---
 
 **Note**: This is a Windows-only application due to Windows Forms dependency. For cross-platform hash utilities, consider command-line alternatives like `sha256sum` or `certutil`.
+
 
 
 
