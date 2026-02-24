@@ -1,29 +1,46 @@
 CrunchHash BETA License v1.0
-Proprietary • Source-Available • All Rights Reserved
+Proprietary Source-Available License
+Effective Date: 2026
 
-Copyright (c) 2026 Dustin Wayne Deen
-All rights reserved.
+1. Ownership
+   CrunchHash, including all source code, binaries, assets, documentation,
+   and related materials (“Software”), is the exclusive property of
+   Dustin Wayne Deen. All rights are reserved.
 
-Permission is granted to any individual to download, view, compile, and test
-the CrunchHash BETA source code for personal evaluation and non-commercial
-use only.
+2. Grant of Limited Rights
+   You are granted a non-exclusive, non-transferable, revocable license to:
+   • Download and view the source code
+   • Compile the Software for personal evaluation
+   • Test the Software for non-commercial purposes
+   • Submit issues, suggestions, or pull requests
 
-The following actions are strictly prohibited without explicit written
-permission from the copyright holder:
+   No other rights are granted.
 
-1. Redistribution of the source code or compiled binaries, in any form.
-2. Commercial use, sale, licensing, or sublicensing of the software.
-3. Modification or creation of derivative works intended for distribution.
-4. Reuse of any portion of the source code in other software projects.
-5. Forking the repository for public or private redistribution.
-6. Removing or altering copyright notices or license terms.
-7. Claiming ownership, authorship, or rights to CrunchHash or its components.
+3. Prohibited Actions
+   You may NOT:
+   • Redistribute the Software or any derivative works
+   • Use any portion of the Software in other projects
+   • Sell, license, or sublicense the Software
+   • Publish forks or modified versions
+   • Claim ownership or authorship
+   • Remove or alter copyright notices
+   • Use the Software for commercial purposes
 
-This BETA release is provided “as-is” for testing and feedback only, with no
-warranty of any kind, express or implied. Use at your own risk.
+4. Derivative Works
+   Any modification, enhancement, or derivative work created by you is the
+   exclusive property of the copyright holder and may not be distributed.
 
-The final commercial release of CrunchHash will be licensed separately under a
-paid per-machine lifetime license.
+5. Warranty Disclaimer
+   The Software is provided “as-is” without warranty of any kind. The author
+   is not liable for any damages arising from use of the Software.
 
-For licensing inquiries, contact:
-Dustin Wayne Deen — PlanetArchives.org
+6. Future Licensing
+   The final commercial release of CrunchHash will be licensed separately
+   under a paid per-machine lifetime license.
+
+7. Termination
+   Any violation of this license immediately terminates your rights to use
+   the Software. Upon termination, you must delete all copies in your
+   possession.
+
+© 2026 Dustin Wayne Deen. All rights reserved.
