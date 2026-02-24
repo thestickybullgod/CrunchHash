@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Supported Versions
-Only the current proprietary BETA branch (`proprietary-main`) is supported.
+Only the current proprietary branch (`proprietary-main`) is supported.
 
 Any versions of CrunchHash previously released under the MIT License are
 no longer maintained and receive no security updates.
@@ -30,7 +30,7 @@ requests that expose sensitive information.
 
 ## Scope
 This policy applies only to:
-- The proprietary CrunchHash BETA
+- The proprietary CrunchHash v1.0
 - Future commercial releases
 - The portable version
 - The MAUI rewrite
