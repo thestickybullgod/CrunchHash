@@ -5,6 +5,8 @@ CrunchHash_BETA.ps1 — SHA256: 41baac959cc2de99c9620b6e2631fc3bfc5ec85a26c04b59
 CrunchHash BETA is **proprietary, source-available software**.  
 It is **not open source**.
 
+![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
+
 This BETA release is provided for:
 - Viewing the source code
 - Local compilation
@@ -288,6 +290,7 @@ This project is open source. Feel free to use, modify, and distribute.
 ---
 
 **Note**: This is a Windows-only application due to Windows Forms dependency. For cross-platform hash utilities, consider command-line alternatives like `sha256sum` or `certutil`.
+
 
 
 
