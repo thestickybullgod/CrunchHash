@@ -1,21 +1,29 @@
-MIT License
+CrunchHash BETA License v1.0
+Proprietary • Source-Available • All Rights Reserved
 
-Copyright (c) 2025 Dustin W. Deen
+Copyright (c) 2026 Dustin Wayne Deen
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is granted to any individual to download, view, compile, and test
+the CrunchHash BETA source code for personal evaluation and non-commercial
+use only.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The following actions are strictly prohibited without explicit written
+permission from the copyright holder:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. Redistribution of the source code or compiled binaries, in any form.
+2. Commercial use, sale, licensing, or sublicensing of the software.
+3. Modification or creation of derivative works intended for distribution.
+4. Reuse of any portion of the source code in other software projects.
+5. Forking the repository for public or private redistribution.
+6. Removing or altering copyright notices or license terms.
+7. Claiming ownership, authorship, or rights to CrunchHash or its components.
+
+This BETA release is provided “as-is” for testing and feedback only, with no
+warranty of any kind, express or implied. Use at your own risk.
+
+The final commercial release of CrunchHash will be licensed separately under a
+paid per-machine lifetime license.
+
+For licensing inquiries, contact:
+Dustin Wayne Deen — PlanetArchives.org
