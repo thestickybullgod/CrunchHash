@@ -1,4 +1,14 @@
+/*
+    CrunchHash — BETA Release
+    Copyright (c) 2026 Dustin Wayne Deen
+    All rights reserved.
 
+    This file is licensed under the CrunchHash BETA License v1.0.
+    Unauthorized copying, modification, redistribution, or use of this file
+    is strictly prohibited.
+
+    See the LICENSE file in the project root for full terms.
+*/
 # Parse command-line arguments (must be first)
 param(
     [switch]$Portable,
@@ -7439,3 +7449,4 @@ $null = $form.ShowDialog()
 Write-VerboseOutput "Form closed - exiting application"
 
 [System.Environment]::Exit(0)
+
