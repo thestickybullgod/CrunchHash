@@ -1,6 +1,29 @@
-SHA256 of CrunchHash_BETA.exe — 29e366ec87d6d3b15431ac31c9774cdda7a6a6eb57d610f1784179d6434fba72
+## License & Usage Restrictions
 
-SHA256 of CrunchHash_BETA.ps1 — fbd0fa65cda4a4e9275dadaa7ba00c5c097818568e050290c4b5e7a28011a689
+CrunchHash BETA is **proprietary, source-available software**.  
+It is **not open source**.
+
+This BETA release is provided for:
+- Viewing the source code
+- Local compilation
+- Personal testing and evaluation
+- Submitting issues and pull requests
+
+### You MAY NOT:
+- Redistribute the source code or binaries
+- Use any part of the code in your own projects
+- Sell, sublicense, or commercially exploit CrunchHash
+- Publish forks or derivative works
+- Remove or alter copyright notices
+
+### Ownership
+CrunchHash is owned exclusively by **Dustin Wayne Deen**.  
+All rights are reserved.
+
+### Final Release
+CrunchHash v1.0 will be distributed under a **$5.00 per-machine lifetime license**.
+
+See the LICENSE and NOTICE files for full legal terms.
 
 # CrunchHash BETA — Portable — BETA
 
@@ -263,6 +286,7 @@ This project is open source. Feel free to use, modify, and distribute.
 ---
 
 **Note**: This is a Windows-only application due to Windows Forms dependency. For cross-platform hash utilities, consider command-line alternatives like `sha256sum` or `certutil`.
+
 
 
 
