@@ -90,5 +90,6 @@ For licensing assistance, transfers, or technical support:
 
 **Dustin Wayne Deen**  
 PlanetArchives.org  
-administrator@planetarchives.org
+support@planetarchives.org
+
 
