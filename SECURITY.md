@@ -30,7 +30,7 @@ requests that expose sensitive information.
 
 ## Scope
 This policy applies only to:
-- The proprietary CrunchHash v1.0
+- The proprietary CrunchHash_v1.0
 - Future commercial releases
 - The portable version
 - The MAUI rewrite
