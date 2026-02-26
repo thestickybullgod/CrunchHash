@@ -93,9 +93,6 @@ PlanetArchives.org
 
 support@planetarchives.org 
 
-sales@planetarchives.org
-
-
 
 
 
