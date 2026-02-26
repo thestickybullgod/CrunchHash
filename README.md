@@ -35,7 +35,7 @@ CrunchHash v1.0 uses **offline per‑machine activation**.
 - If CrunchHash is moved to a different machine, it will enter **Unlicensed Mode**.
 
 ### Unlicensed Mode Limitations
-- Maximum of 5 files per user
+- Maximum of 5 files per user (lifetime trial)
 - Batch mode disabled  
 - Activation prompt shown at launch  
 
@@ -92,5 +92,6 @@ For licensing assistance, transfers, or technical support:
 PlanetArchives.org  
 support@planetarchives.org
 sales@planetarchives.org
+
 
 
