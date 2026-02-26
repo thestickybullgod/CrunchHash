@@ -10,7 +10,7 @@ no longer maintained and receive no security updates.
 If you discover a security issue, please report it privately.
 
 Contact:
-**Dustin Wayne Deen — PlanetArchives.org**
+**Dustin Wayne Deen — PlanetArchives.org — support@planetarchives.org**
 
 Please include:
 - A clear description of the issue
