@@ -1,4 +1,4 @@
-# CrunchHash v1.0 — Proprietary Edition
+# CrunchHash_v1.0 — Proprietary Edition
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)
@@ -7,7 +7,7 @@ CrunchHash is a fast, lightweight file hashing utility designed for Windows.
 It provides quick access to common cryptographic hash functions, batch hashing,  
 and a clean interface suitable for both casual and technical users.
 
-This is the **official proprietary release** of CrunchHash v1.0.
+This is the **official proprietary release** of CrunchHash_v1.0.
 
 ---
 
@@ -26,7 +26,7 @@ This is the **official proprietary release** of CrunchHash v1.0.
 
 ## Licensing & Activation
 
-CrunchHash v1.0 uses **offline per‑machine activation**.
+CrunchHash_v1.0 uses **offline per‑machine activation**.
 
 - Each purchase includes **one lifetime license** for a single machine.
 - Activation is bound to your hardware ID.
@@ -68,7 +68,7 @@ Activation takes only a few seconds and does not require internet access.
 
 ## Download
 
-The latest release of CrunchHash v1.0 is available on:
+The latest release of CrunchHash_v1.0 is available on:
 
 - **GitHub Releases**  
 - **PlanetArchives.org** (official distribution)
@@ -92,6 +92,7 @@ For licensing assistance, transfers, or technical support:
 PlanetArchives.org
 
 support@planetarchives.org 
+
 
 
 
