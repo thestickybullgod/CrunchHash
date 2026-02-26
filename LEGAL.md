@@ -26,7 +26,7 @@ MIT rights do NOT apply to:
 - New commits after the license change
 - Rewritten or replaced files
 - New features, modules, or architectures
-- CrunchHash v1.0 and later
+- CrunchHash_v1.0 and later
 - Portable builds
 - MAUI rewrites
 - Commercial releases
@@ -56,7 +56,7 @@ unauthorized and subject to DMCA takedown.
 ---
 
 ## 5. Commercial Licensing
-CrunchHash v1.0 and later will be distributed under a paid, per-machine,
+CrunchHash_v1.0 and later will be distributed under a paid, per-machine,
 lifetime commercial license.
 
 ---
