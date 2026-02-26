@@ -63,4 +63,4 @@ lifetime commercial license.
 
 ## 6. Contact
 For licensing inquiries:
-**Dustin Wayne Deen — PlanetArchives.org**
+**Dustin Wayne Deen — support@planetarchives.org**
