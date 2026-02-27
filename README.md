@@ -72,7 +72,7 @@ The latest release of CrunchHash_v1.0 is available on:
 
 - **GitHub Releases**  
 - **PlanetArchives.org** (official distribution)
-- **Purchase at [url=http:\\planetarchives.org\crunchhash.html]
+- **Purchase at planetarchives.org/crunchhash.html
 
 ---
 
@@ -93,6 +93,7 @@ For licensing assistance, transfers, or technical support:
 PlanetArchives.org
 
 support@planetarchives.org 
+
 
 
 
