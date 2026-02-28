@@ -1,13 +1,13 @@
-# CrunchHash_v1.0 — Proprietary Edition
+# HashVektor_v1.0 — Proprietary Edition
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)
 
-CrunchHash is a fast, lightweight file hashing utility designed for Windows.  
+HashVektor is a fast, lightweight file hashing utility designed for Windows.  
 It provides quick access to common cryptographic hash functions, batch hashing,  
 and a clean interface suitable for both casual and technical users.
 
-This is the **official proprietary release** of CrunchHash_v1.0.
+This is the **official proprietary release** of HashVektor_v1.0.
 
 ---
 
@@ -26,13 +26,13 @@ This is the **official proprietary release** of CrunchHash_v1.0.
 
 ## Licensing & Activation
 
-CrunchHash_v1.0 uses **offline per‑machine activation**.
+HashVektor_v1.0 uses **offline per‑machine activation**.
 
 - Each purchase includes **one lifetime license** for a single machine.
 - Activation is bound to your hardware ID.
 - No internet connection is required.
 - Activation data is stored securely in your Windows registry.
-- If CrunchHash is moved to a different machine, it will enter **Unlicensed Mode**.
+- If HashVektor is moved to a different machine, it will enter **Unlicensed Mode**.
 
 ### Unlicensed Mode Limitations
 - Maximum of 5 files hashed per user (lifetime trial)
@@ -41,18 +41,18 @@ CrunchHash_v1.0 uses **offline per‑machine activation**.
 
 ### License Transfers
 If you replace or retire your computer, you may request a **courtesy license transfer**.  
-Because CrunchHash uses offline activation, deactivation on the old machine is not enforced automatically.
+Because HashVektor uses offline activation, deactivation on the old machine is not enforced automatically.
 
 ---
 
 ## How to Activate
 
-1. Launch `CrunchHash_v1.0.exe`
+1. Launch `HashVektor_v1.0.exe`
 2. Click **Activate License**
 3. Supply your Machine ID
 4. License key will be generated and supplied
 5. Enter your license key
-6. CrunchHash will bind the key to your machine and unlock full functionality
+6. HashVektor will bind the key to your machine and unlock full functionality
 
 Activation takes only a few seconds and does not require internet access.
 
@@ -71,17 +71,17 @@ Activation takes only a few seconds and does not require internet access.
 
 ## Download
 
-The latest release of CrunchHash_v1.0 is available on:
+The latest release of HashVektor_v1.0 is available on:
 
 - **GitHub Releases**  
 - **PlanetArchives.org** (official distribution)
-- **Purchase at http://planetarchives.org/crunchhash.html**
+- **Purchase at http://planetarchives.org/HashVektor.html**
 
 ---
 
 ## Security
 
-CrunchHash performs all hashing locally and never transmits data.  
+HashVektor performs all hashing locally and never transmits data.  
 No files, hashes, or metadata leave your machine.
 
 For security issues, please report privately.
@@ -96,6 +96,7 @@ For licensing assistance, transfers, or technical support:
 PlanetArchives.org
 
 support@planetarchives.org 
+
 
 
 
