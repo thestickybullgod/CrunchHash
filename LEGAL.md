@@ -2,7 +2,7 @@
 
 ## Overview
 HashVektor, formerly CrunchHash, was previously released under the MIT License during early
-development. As of February 2026, CrunchHash, now HashVektor, has transitioned to a
+development. As of February 2026, CrunchHash (now called HashVektor) has transitioned to a
 proprietary, source-available license.
 
 This document explains the legal status of past and future versions.
