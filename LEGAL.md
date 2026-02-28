@@ -18,7 +18,7 @@ All rights are reserved unless explicitly granted.
 ---
 
 ## 2. Status of MIT-Licensed Code
-Any version of CrunchHash (now known as HashVektor) that was released under the MIT License remains
+Any version of CrunchHash (now called HashVektor) that was released under the MIT License remains
 available under those terms. MIT rights apply **only** to the exact code
 that was published under MIT.
 
