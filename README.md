@@ -60,9 +60,12 @@ Activation takes only a few seconds and does not require internet access.
 
 ## System Requirements
 
-- Windows 10 or later  
-- PowerShell 5.1 or PowerShell 7+ (included on all modern Windows systems)  
-- No installation required  
+- Windows 10 or 11 (64‑bit)
+- Fully portable EXE
+- No installation required
+- No PowerShell required
+- No .NET runtime required
+- No admin permissions required
 
 ---
 
@@ -93,6 +96,7 @@ For licensing assistance, transfers, or technical support:
 PlanetArchives.org
 
 support@planetarchives.org 
+
 
 
 
