@@ -1,3 +1,5 @@
+sha256: 8bc2fe2e19c6e54c632b5395d57c32b9f5118c5efbd3cedc80092f140bf688f2
+
 # HashVektor_v1.0 — Proprietary Edition
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)
@@ -96,18 +98,3 @@ For licensing assistance, transfers, or technical support:
 PlanetArchives.org
 
 support@planetarchives.org 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
