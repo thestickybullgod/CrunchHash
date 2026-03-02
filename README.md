@@ -75,7 +75,7 @@ The latest release of HashVektor_v1.0 is available on:
 
 - **GitHub Releases**  
 - **PlanetArchives.org** (official distribution)
-- **Purchase at http://planetarchives.org/HashVektor.html**
+- **http://planetarchives.org/HashVektor.html**
 
 ---
 
@@ -96,4 +96,5 @@ For licensing assistance, transfers, or technical support:
 PlanetArchives.org
 
 support@planetarchives.org 
+
 
