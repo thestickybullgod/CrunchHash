@@ -74,10 +74,8 @@ Activation takes only a few seconds and does not require internet access.
 The latest release of HashVektor_v1.0 is available on:
 
 - **GitHub Releases**  
-- **PlanetArchives.org** (official distribution)
-- **http://planetarchives.org/HashVektor.html**
+- **[PlanetArchives.org](http://planetarchives.org/HashVektor.html)** (official distribution)
 
----
 
 ## Security
 
@@ -96,5 +94,6 @@ For licensing assistance, transfers, or technical support:
 PlanetArchives.org
 
 support@planetarchives.org 
+
 
 
