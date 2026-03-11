@@ -91,9 +91,10 @@ For security issues, please report privately.
 For licensing assistance, transfers, or technical support:
 
 **Dustin Wayne Deen**  
-- **[PlanetArchives.org](http://planetarchives.org/index.html)**
+**[PlanetArchives.org](http://planetarchives.org/index.html)**
 
 support@planetarchives.org 
+
 
 
 
