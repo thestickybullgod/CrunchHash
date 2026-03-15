@@ -35,7 +35,7 @@ HashVektor_v1.0 uses **offline per‑machine activation**.
 - If HashVektor is moved to a different machine, it will enter **Unlicensed Mode**.
 
 ### Unlicensed Mode Limitations
-- Maximum of 5 files hashed per user (lifetime trial)
+- Maximum of 15 files hashed per user (lifetime trial)
 - Batch mode disabled  
 - Activation prompt shown at launch  
 
